@@ -12,13 +12,13 @@ function initMap() {
     let MarkerArray =
         [{
             location: { lat: 10.1632, lng: 76.6413 },
-            imageIcon: "js/greenPin.svg",
+            imageIcon: "greenPin.svg",
             content: `<h2>Location: Kerela<br>
             Store Name: XYZ</h2>`},
 
         {
             location: { lat: 31.8087, lng: 76.1029 },
-            imageIcon: "js/redPin.svg",
+            imageIcon: "redPin.svg",
             content: `<h2>Location: Chintpurni<br>
             Store Name: ABC</h2>`},
         {
